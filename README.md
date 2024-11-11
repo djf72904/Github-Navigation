@@ -32,6 +32,86 @@ Only repos by me ([djf72904](https://github.com/djf72904)) or ones that I have w
   - Group project  
   
 ## University Coursework
+*All private due to academic integrity concerns.*  
+*Therefore, descriptions and notes are not needed and organization takes priority* 
+### Year 1
+#### <ins>Fall 2022</ins>
+Total Credits: 17
+
+##### CS Courses
+- [CS-101: Research and Entrepreneurship in Computing](google.com)
+- [CS-115: Introduction to Computer Science](https://github.com/djf72904/CS-115)
+##### Math/Science Courses
+- [MA-125: Vectors and Matrices](google.com)
+- [MA-126: Multivariable Calculus I](google.com)
+- [PEP-111: Mechanics](google.com)
+
+##### Other Courses
+- [CAL-103: Writing and Communications Collqm](google.com)
+- [EE-181: Seminar in Electrical Engr.](google.com)
+- [PIN-183: Pinnacle Scholar Seminar I](google.com)
+
+#### <ins>Spring 2023</ins>
+Total Credits: 20
+
+##### CS Courses
+- [CS-135: Discrete Structures](google.com)
+- [CS-284: Data Structures](google.com)
+##### Math/Science Courses
+- [MA-222: Probability and Statistics](google.com)
+- [PEP-112: Electricity and Magnetism](google.com)
+- [PEP-187: Seminar in Physics](google.com)
+- [PEP-221: Physics Lab I for Scientists](google.com)
+
+##### Other Courses
+- [CAL-105: Knowledge, Nature, Culture](google.com)
+- [PIN-184: Pinnacle Scholar Seminar II](google.com)
+
+### Year 2
+#### <ins>Fall 2023</ins>
+Total Credits: 17
+
+##### CS Courses
+- [CS-382: Computer Architecture and Organization](https://github.com/djf72904/CS-382)
+- [CS-385: Algorithms](https://github.com/djf72904/CS-385)
+
+##### Math/Science Courses
+- [MA-331: Intermediate Statistics](google.com)
+- [PEP-151: Introduction to Astronomy](google.com)
+
+##### Other Courses
+- [HSS-371: Computers & Soceity](google.com)
+
+
+#### <ins>Spring 2024</ins>
+Total Credits: 16
+
+##### CS Courses
+- [CS-188: Seminar in Computer Science](https://github.com/djf72904/CS-188)
+- [CS-392: Systems Programming](https://github.com/djf72904/CS-392)
+- [CS-442: Database Management Systems](https://github.com/djf72904/CS-442)
+- [CS-492: Operating Systems](https://github.com/djf72904/CS-492)
+- [CS-496: Principles of Programming Languages](https://github.com/djf72904/CS-496)
+
+##### Math Courses
+- [MA-232: Linear Algebra](https://github.com/djf72904/MA-232)
+
+
+### Year 3
+#### <ins>Fall 2024</ins>
+Total Credits: 16
+
+##### CS Courses
+- [CS-334: Theory of Computation](https://github.com/djf72904/CS-334)
+- [CS-396: Security, Privacy, and Society](https://github.com/djf72904/CS-396)
+- CS-423: Senior Design I
+- [CS-546: Web Programming](https://github.com/djf72904/CS-546)
+- [CS-559: Machine Learning: Fund & Apps](https://github.com/djf72904/CS-559)
+
+#### Spring 2025
+Total Credits: 19
+
+TBD
 
 
 
