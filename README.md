@@ -76,11 +76,11 @@ Total Credits: 17
 - [CS-385: Algorithms](https://github.com/djf72904/CS-385)
 
 ##### Math/Science Courses
-- [MA-331: Intermediate Statistics](google.com)
-- [PEP-151: Introduction to Astronomy](google.com)
+- [MA-331: Intermediate Statistics](https://github.com/djf72904/MA-331)
+- [PEP-151: Introduction to Astronomy](https://github.com/djf72904/PEP-151)
 
 ##### Other Courses
-- [HSS-371: Computers & Soceity](google.com)
+- [HSS-371: Computers & Soceity](https://github.com/djf72904/HSS-371)
 
 
 #### <ins>Spring 2024</ins>
