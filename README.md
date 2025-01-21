@@ -108,10 +108,17 @@ Total Credits: 16
 - [CS-546: Web Programming](https://github.com/djf72904/CS-546)
 - [CS-559: Machine Learning: Fund & Apps](https://github.com/djf72904/CS-559)
 
-#### Spring 2025
-Total Credits: 19
+#### <ins>Spring 2025</ins>
+Total Credits: 18
 
-TBD
+##### CS Courses
+- CS-424: Senior Design II
+- [CS-524: Introduction to Cloud Computing](https://github.com/djf72904/CS-524)
+- [CS-554: Web Programming II](https://github.com/djf72904/CS-554)
+- [CS-545: Human-Computer Interaction](https://github.com/djf72904/CS-545)
+- [CS-573: Fundamentals of CyberSecuirty](https://github.com/djf72904/CS-573)
+- [CS-583: Deep Learning](https://github.com/djf72904/CS-583)
+
 
 
 
