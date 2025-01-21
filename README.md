@@ -114,8 +114,8 @@ Total Credits: 18
 ##### CS Courses
 - CS-424: Senior Design II
 - [CS-524: Introduction to Cloud Computing](https://github.com/djf72904/CS-524)
-- [CS-554: Web Programming II](https://github.com/djf72904/CS-554)
 - [CS-545: Human-Computer Interaction](https://github.com/djf72904/CS-545)
+- [CS-554: Web Programming II](https://github.com/djf72904/CS-554)
 - [CS-573: Fundamentals of CyberSecuirty](https://github.com/djf72904/CS-573)
 - [CS-583: Deep Learning](https://github.com/djf72904/CS-583)
 
