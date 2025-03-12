@@ -24,19 +24,19 @@ Only repos by me ([djf72904](https://github.com/djf72904)) or ones that I have w
    
 
 ## University Projects
+### GTFS_File_Acquisition
+  **Github Repository:** [GTFS_File_Acquisition](https://github.com/djf72904/GTFS_File_Acquisition)  
+  **Project Description:** Part of a larger project that involves making multi-modal transport easier to plan. This part is for acquiring and validating the GTFS transit files for many transit agencies.
+  #### Notes
+  - Part of Senior Design at Stevens Insititute of Technology from Fall of 2024 to Spring of 2025 
+  - Done with group and client [Krishna Malyala](https://www.linkedin.com/in/krishnamalyala/)  
+    
 ### TypeBeat
   **GitHub Repository:** [CS-546-Final_Project](https://github.com/djf72904/CS-546-Final-Project)  
   **Project Description:** Final Project repo for CS-546 - Web Programming I at Stevens Institute of Technology. Typing test/practice website that gives songs with beats-per-minute that match the words-per-minute of the user  
   #### Notes 
   - Fall semester of 2024 with Professor Patrick Hill at Stevens Institute of Technology
   - Group project
-
-### GTFS_File_Acquisition
-  **Github Repository:** [GTFS_File_Acquisition](https://github.com/djf72904/GTFS_File_Acquisition)  
-  **Project Description:** Part of a larger project that involves making multi-modal transport easier to plan. This part is for acquiring and validating the GTFS transit files for many transit agencies.
-  #### Notes
-  - Part of Senior Design at Stevens Insititute of Technology from Fall of 2024 to Spring of 2025 
-  - Done with group and client [Krishna Malyala](https://www.linkedin.com/in/krishnamalyala/)
   
 ## University Coursework
 *All private due to academic integrity concerns.*  
