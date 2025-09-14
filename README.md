@@ -129,7 +129,7 @@ Total Credits: 18
 
 ### Year 4
 #### <ins>Fall 2025</ins>
-Total Credits: 15
+Total Credits: 12
 
 ##### CS Courses
 - [CS-511: Concurrent Programming](https://github.com/djf72904/CS-511)  
