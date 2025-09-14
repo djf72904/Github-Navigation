@@ -127,5 +127,21 @@ Total Credits: 18
 - [CS-583: Deep Learning](https://github.com/djf72904/CS-583)
 
 
+### Year 4
+#### <ins>Fall 2025</ins>
+Total Credits: 15
+
+##### CS Courses
+- [CS-511: Concurrent Programming](https://github.com/djf72904/CS-511)  
+- [CS-522: Mobile Systems and Applications](https://github.com/djf72904/CS-522)  
+- [CS-558: Computer Vision](https://github.com/djf72904/CS-558)  
+
+##### Computer Engineering Courses
+- [CPE-555: Real-Time and Embedded Systems](https://github.com/djf72904/CPE-555)  
+
+#### <ins>Spring 2025</ins>
+Total Credits: N/A
+
+
 
 
